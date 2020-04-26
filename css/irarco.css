@@ -1,0 +1,34 @@
+.carrusel {
+    width: 50%;
+    height: auto;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+    display: block;
+    margin: auto;
+}
+
+.Center {
+    text-align: center;
+}
+
+.logoIrarco {
+    width: 35%;
+    height: auto;
+}
+
+.TextCenter {
+    padding-top: 20px;
+    padding-bottom: 10px;
+    text-align: center;
+    font-family: Tahoma,
+        Geneva,
+        sans-serif;
+    font-weight: bold;
+}
+
+.imgClientes {
+    padding: 1px;
+    width: 85%;
+    height: auto;
+}

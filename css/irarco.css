@@ -13,8 +13,12 @@
 }
 
 .logoIrarco {
-    width: 35%;
-    height: auto;
+    width: 25%;
+}
+
+.logoIrarcoFooter {
+    width: 25%;
+    text-align: center;
 }
 
 .TextCenter {

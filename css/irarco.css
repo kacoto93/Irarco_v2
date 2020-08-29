@@ -12,10 +12,6 @@
     text-align: center;
 }
 
-.logoIrarcoFooter {
-    width: 25%;
-    text-align: center;
-}
 
 .TextCenter {
     padding-top: 20px;
@@ -49,12 +45,22 @@
     .logoIrarco {
         width: 50%;
     }
+
+    .logoIrarcoFooter {
+        width: 20%;
+        text-align: center;
+    }
 }
 
 /* Small devices (landscape phones, 576px and up) */
 @media (min-width: 576px) {
     .logoIrarco {
         width: 50%;
+    }
+
+    .logoIrarcoFooter {
+        width: 25%;
+        text-align: center;
     }
 }
 
@@ -63,6 +69,11 @@
     .logoIrarco {
         width: 25%;
     }
+
+    .logoIrarcoFooter {
+        width: 30%;
+        text-align: center;
+    }
 }
 
 /* Large devices (desktops, 992px and up) */
@@ -70,11 +81,21 @@
     .logoIrarco {
         width: 25%;
     }
+
+    .logoIrarcoFooter {
+        width: 35%;
+        text-align: center;
+    }
 }
 
 /* Extra large devices (large desktops, 1200px and up) */
 @media (min-width: 1200px) {
     .logoIrarco {
         width: 25%;
+    }
+
+    .logoIrarcoFooter {
+        width: 40%;
+        text-align: center;
     }
 }
